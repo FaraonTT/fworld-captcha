@@ -1,0 +1,13 @@
+{
+  "name": "CaptchaGate",
+  "short_name": "CaptchaGate",
+  "description": "Пройти каптчу, получить галочку fworld_team",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06060b",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
